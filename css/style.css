@@ -1,0 +1,54 @@
+.kar{
+    width: 800px;
+    min-height: 600px;
+    background-color: white;
+    float: left;
+}
+.head{
+    width: 800px;
+    min-height: 70px;
+    background-color: yellow;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.center{
+    width: 800px;
+    min-height: 460px;
+    background-color: white;
+    float: left;
+    margin: 15px 0;
+}
+.bottom{
+    width: 800px;
+    min-height: 70px;
+    background-color: yellow;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.nav{
+    width: 150px;
+    min-height: inherit;
+    background-color: yellow;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.art{
+    width: 470px;
+    min-height: inherit;
+    background-color: yellow;
+    float: left;
+    margin: 0px 15px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.ads{
+    width: 150px;
+    min-height: inherit;
+    background-color: yellow;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
